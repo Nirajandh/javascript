@@ -33,3 +33,8 @@ const min = 10
 const max = 20
 
 console.log(Math.floor(Math.random() * (max - min + 1)) + min)
+
+const a=10;
+console.log(Math.PI)
+
+const arr =[1,2,3]

@@ -1,12 +1,12 @@
-let mydate= new Date();
-console.log(mydate)
-console.log(mydate.toString())
-console.log(mydate.toDateString())
-console.log(mydate.toISOString())
-console.log(mydate.toLocaleDateString())
-console.log(mydate.toLocaleString())
-console.log(mydate.toJSON())
-console.log(mydate.toTimeString)
+// let mydate= new Date();
+// console.log(mydate)  //2024-02-02T05:52:43.839Z
+// console.log(mydate.toString())  //Fri Feb 02 2024 05:52:43 GMT+0000 (Coordinated Universal Time)
+// console.log(mydate.toDateString())  //Fri Feb 02 2024
+// console.log(mydate.toISOString())   //2024-02-02T05:52:43.839Z
+// console.log(mydate.toLocaleDateString())   //2/2/2024
+// console.log(mydate.toLocaleString())     //2/2/2024, 5:52:43 AM
+// console.log(mydate.toJSON())            //[Function: toTimeString]
+// console.log(mydate.toTimeString)       //2024-02-02T05:52:44.098Z
 // Dates
 
 let myDate = new Date()
